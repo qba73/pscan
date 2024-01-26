@@ -1,3 +1,5 @@
 # pscan
 
-`pscan` is a Go library and a CLI and TUI tool for scanning IPs and Ports.
+![PScan logo](pscan.png)
+
+`pscan` is a Go library, a CLI and TUI tool for scanning IP addresses and ports.
